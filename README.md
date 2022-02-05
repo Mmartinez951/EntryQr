@@ -1,0 +1,2 @@
+# EntryQr
+Proyecto Sena (Bogotá)
